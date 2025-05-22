@@ -74,10 +74,23 @@ samples, guidance on mobile development, and a full API reference.
 ## 6. 구현 내용
 
 - **Lifeline 메인 화면:** 포트폴리오를 시계열로 시각화한 타임라인 UI
+- ![image](https://github.com/user-attachments/assets/3cc76273-16ad-4b78-aa1f-e0d6e8223d5c)
 - **태그 버블 시스템:** 유저가 지정한 태그로 Clip들을 그룹화하거나 필터링
+- **검색 화면**
+- ![image](https://github.com/user-attachments/assets/e06b3226-0cf6-439f-932f-b467f01b89bc)
 - **사용자 프로필:** 자기소개, 활동 태그, Clip 목록 등을 포함
+- ![image](https://github.com/user-attachments/assets/5434442f-bf6c-4f77-8ec9-7b0c4f2dc6d7)
 - **둘러보기(Browse) 화면:** 공개된 다른 사용자들의 포트폴리오 탐색
-- **노트 위젯:** 각 Clip에 간단한 설명, 회고, 관련 링크 등을 추가 가능
+- ![image](https://github.com/user-attachments/assets/0ce9ad11-831c-443c-97c0-b01554d39cd2)
+- **노트 위젯:** 각 Clip에 대한 태그, 간단한 설명, 사용자 정보와 좋아요 수 등을 표기
+- ![image](https://github.com/user-attachments/assets/769ec4a4-a370-43e8-ad7e-22b109279e7a)
+
+
+## 7. 그 외
+![image](https://github.com/user-attachments/assets/defb2bbe-aa65-4b98-a915-df2f0cf8a27b)
+- API 명세서
+![image](https://github.com/user-attachments/assets/0c1a0f61-d2d1-4b8e-909c-cc009efd8227)
+
 
 ### Directory Structure ###
 ```
